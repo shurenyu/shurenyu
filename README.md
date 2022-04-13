@@ -11,6 +11,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shurenyu&show_icons=true&locale=en&layout=compact" alt="shurenyu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shurenyu&show_icons=true&locale=en" alt="shurenyu" /></p>
 
 
